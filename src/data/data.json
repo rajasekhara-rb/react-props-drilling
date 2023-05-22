@@ -1,0 +1,98 @@
+[
+    {
+      "plan": "FREE",
+      "cost": "0",
+      "usersCount": {
+        "user": "Single User",
+        "fontWeight": ""
+      },
+      "storage": "5GB Storage",
+      "projects": "Unlimited Public Projects",
+      "access": "Community Access",
+      "projectsNumbers": {
+        "privateProjects": "Unlimited Private Projects",
+        "icon": "fas fa-times",
+        "text": "text-muted"
+      },
+      "phone": {
+        "phoneSupport": "Dedicated Phone Support",
+        "icon": "fas fa-times",
+        "text": "text-muted"
+      },
+      "domain": {
+        "singleBoldText": "",
+        "subDomain": "Free Subdomain",
+        "icon": "fas fa-times",
+        "text": "text-muted"
+      },
+      "monthlyReports": {
+        "report": "Monthly Status Reports",
+        "icon": "fas fa-times",
+        "text": "text-muted"
+      }
+    },
+    {
+      "plan": "PLUS",
+      "cost": "9",
+      "usersCount": {
+        "user": "5 Users",
+        "fontWeight": "fw-bold"
+      },
+      "storage": "50GB Storage",
+      "projects": "Unlimited Public Projects",
+      "access": "Community Access",
+      "projectsNumbers": {
+        "privateProjects": "Unlimited Private Projects",
+        "icon": "fas fa-check",
+        "text": ""
+      },
+      "phone": {
+        "phoneSupport": "Dedicated Phone Support",
+        "icon": "fas fa-check",
+        "text": ""
+      },
+      "domain": {
+        "singleBoldText": "",
+        "subDomain": "Free Subdomain",
+        "icon": "fas fa-check",
+        "text": ""
+      },
+      "monthlyReports": {
+        "report": "Monthly Status Reports",
+        "icon": "fas fa-times",
+        "text": "text-muted"
+      }
+    },
+    {
+      "plan": "PRO",
+      "cost": "49",
+      "usersCount": {
+        "user": "Unlimited Users",
+        "fontWeight": "fw-bold"
+      },
+      "storage": "150GB Storage",
+      "projects": "Unlimited Public Projects",
+      "access": "Community Access",
+      "projectsNumbers": {
+        "privateProjects": "Unlimited Private Projects",
+        "icon": "fas fa-check",
+        "text": ""
+      },
+      "phone": {
+        "phoneSupport": "Dedicated Phone Support",
+        "icon": "fas fa-check",
+        "text": ""
+      },
+      "domain": {
+        "singleBoldText": "Unlimited ",
+        "subDomain": "Free Subdomains",
+        "icon": "fas fa-check",
+        "text": ""
+      },
+      "monthlyReports": {
+        "report": "Monthly Status Reports",
+        "icon": "fas fa-check",
+        "text": ""
+      }
+    }
+  ]
